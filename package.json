@@ -1,0 +1,38 @@
+{
+  "name": "emerald-bot",
+  "main": "main.js",
+  "author": "emerald#0652",
+  "description": "Music, Fun & Informational Bot",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-button": "^1.0.3",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-player": "^5.2.2",
+    "discord-with-slash": "^1.0.542",
+    "discord.js": "^13.4.0",
+    "express": "^4.17.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "mongoose": "^6.2.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "reconlx": "^2.5.2",
+    "ytdl-core": "^4.10.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emerald-cmd/Emerald-Bot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emerald-cmd/Emerald-Bot/issues"
+  },
+  "homepage": "https://github.com/Emerald-cmd/Emerald-Bot#readme"
+}
